@@ -1,2 +1,3 @@
 # leetcode-go
-leetcode
+
+我的个人leetcode题解, Golang
